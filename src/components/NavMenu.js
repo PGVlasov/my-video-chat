@@ -1,4 +1,4 @@
-import { Navbar, Container, Offcanvas, Nav, Card } from "react-bootstrap";
+import { Navbar, Container, Offcanvas, Nav } from "react-bootstrap";
 
 export const NavMenu = () => {
   return (
