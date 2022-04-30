@@ -1,4 +1,4 @@
-import socket from "../socket";
+import socket from "../components/socket/socket";
 
 export const MainPage = () => {
   return (
