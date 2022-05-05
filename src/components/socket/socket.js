@@ -7,4 +7,4 @@ const options = {
   transports: ["websocket"],
 };
 
-export const socket = io("ws://193.168.48.104:3011/", options); //"http://localhost:3011"
+export const socket = io("ws://193.168.48.104:3050/", options); //"http://localhost:3011" "ws://193.168.48.104:3011/"
